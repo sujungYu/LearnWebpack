@@ -1,5 +1,5 @@
-#learn_webpack
-+ 캡틴 판교 <프론트엔드 개발자를 위한 웹팩>
+# learn_webpack
+ 캡틴 판교 <프론트엔드 개발자를 위한 웹팩>
 ## Content
 ### [Node.js와 NPM]
 #### npm 초기화 명령어(package.json 생성)
